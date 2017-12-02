@@ -6,7 +6,7 @@ body {
   height: 100%; }
 
 #hero {
-  background: url("/assets/bg.jpg") no-repeat;
+  background: url("../assets/bg.jpg") no-repeat;
   background-size: cover;
   background-position: 0 60%;
   background-attachment: fixed; }
@@ -44,7 +44,7 @@ h1 {
   color: #000; }
 
 #join-container {
-  background: url("/assets/screen1.jpg") no-repeat;
+  background: url("../assets/screen1.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed; }
   #join-container h2 {
